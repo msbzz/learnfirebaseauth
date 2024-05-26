@@ -1,9 +1,8 @@
 # learnfirebaseauth
 
-Projeto tem como intuito estudar o de cadastro de acesso e a autenticação no firebase que é uma plataforma 
-de desenvolvimento de aplicativos móveis e web oferecida pelo Google.
+Projeto baseado na video aula '**Flutter Firebase Auth - The Cleanest & Fastest Way - IOS & Android**' que se encontra no YOUTUBE 'https://www.youtube.com/watch?v=rWamixHIKmQ&t=293s' que tem como intuito estudar o de cadastro de acesso e a autenticação no firebase que é uma plataforma de desenvolvimento de aplicativos móveis e web oferecida pelo Google.
 
-obs: neste projeto foi considerado apenas o android
+obs: neste projeto foi considerado apenas o android e precisa dos arquivos 'google-services.json' e 'values.xml' que contem informações de sua conta firebase
 
 ## Inicializando o projeto
 
